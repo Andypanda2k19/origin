@@ -6,7 +6,6 @@ from aiogram import F
 import sys
 from os import getenv
 from typing import Any, Dict
-import bot
 import sqlite3
 from aiogram import Bot, Dispatcher, F, Router, html
 from aiogram.enums import ParseMode
